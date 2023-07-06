@@ -1,0 +1,22 @@
+{
+  "name": "finalproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.15.0",
+    "cypress-drag-drop": "^1.1.1",
+    "cypress-xpath": "^2.0.1"
+  },
+  "devDependencies": {
+    "@4tw/cypress-drag-drop": "^2.2.4",
+    "cypress-file-upload": "^5.0.8",
+    "cypress-mailslurp": "^1.6.0"
+  }
+}
